@@ -1,0 +1,4 @@
+"contrast","type","sig.PVal","sig.FDR","pval_thresh","lfc_thresh","p_adj_method"
+"Fish.Oil.Diet_vs_Control.Diet","down","84","81",0.055,1,"BH"
+"Fish.Oil.Diet_vs_Control.Diet","nonsig","2690","2701",0.055,1,"BH"
+"Fish.Oil.Diet_vs_Control.Diet","up","116","108",0.055,1,"BH"
